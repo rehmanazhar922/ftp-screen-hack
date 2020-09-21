@@ -5,3 +5,10 @@ it is illigal
 # for more scripts rehmanazhar922@gmail.com
 
 do it for educational purpuse
+
+# platforms
+
+1.windows
+2.linux
+3.android # if you created this script py to apk
+4.and other platmorms just add removing command like rm del etc type os.system("deleting command shot.png")
